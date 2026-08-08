@@ -1,0 +1,83 @@
+<html>
+    <head>
+        <title>my cartoon caracter card</title>
+        <style>
+            h1{
+                color: #b14919d7;
+            }
+            h2{
+                color: rgb(25, 115, 167);
+            }
+            .details{
+                background-color: rgb(144, 141, 145);
+            color: aqua;
+            }
+            #mycard{
+                background-color: rgb(180, 180, 62);
+            }
+            body{
+                background-color: chocolate;
+            }
+            
+            
+
+
+        </style>
+            
+        </head>
+        <body>
+            <h1>my cartoon character card</h1>
+            <p style="color: rgb(221, 108, 193);">this is my very own web page</p>
+            <div id="mycard">
+                <h2>about my cartoon character</h2>
+                <p class="details"> </p>
+                <p class="details">my favourite cartoon character is shain</p>
+                <p class="details">it is a japnase cartoon character</p>
+            </div>
+            <h2>about this cartoon</h2>
+            <p>shain is the powerfull chacter</p>
+            <p>he has three frinds</p>
+            <p>they fought for the rights of innocent people</p>
+            <p>they are so kind to other people</p>
+        </body>
+        </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
